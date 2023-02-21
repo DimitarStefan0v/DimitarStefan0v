@@ -1,5 +1,5 @@
 
-## 👋 Hey there<br><br>
+## Hi there!👋 <br><br>
 
 - 👧 I am Dimitar Stefanov
 
