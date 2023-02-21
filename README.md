@@ -3,9 +3,7 @@
 
 - 👧 I am Dimitar Stefanov
 
-- 🔭 I’m currently working on [Recipes Application](https://github.com/DimitarStefan0v/Recipes)
-
-- 🌱 I’m currently learning **Angular**
+- 🔭 Recent project built with ASP.NET Core **[Recipes Application](https://github.com/DimitarStefan0v/Recipes)**
 
 - 📫 How to reach me **d.stefanov088@gmail.com**
 
