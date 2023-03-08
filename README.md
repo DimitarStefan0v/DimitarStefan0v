@@ -7,7 +7,6 @@
 
 - 📫 How to reach me **d.stefanov088@gmail.com**
 
-- ⚡ My hobbies are **Learning New Technologies, Reading Books, Traveling**
 <br><br>
 
 
