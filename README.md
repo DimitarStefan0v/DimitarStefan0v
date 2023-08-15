@@ -5,11 +5,12 @@
 
 ### :hammer_and_wrench: Languages and Tools:
 <div>
+  <img alt="javascript" width="40px" height="40px" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" />&nbsp;
   <img alt="react" width="40px" height="40px" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" />&nbsp;
+  <img alt="nodejs" width="40px" height="40px" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" />&nbsp;
   <img alt="express" width="40px" height="40px" src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" />&nbsp;
    <img alt="mongodb" width="40px" height="40px" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" />&nbsp;
-  <img alt="nodejs" width="40px" height="40px" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" />&nbsp;
-  <img alt="javascript" width="40px" height="40px" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" />&nbsp;
+  
   <img alt="css" width="40px" height="40px" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" />&nbsp;
   <img alt="html" width="40px" height="40px" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" />&nbsp;
   <img alt="mssql" width="40px" height="40px" src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" />&nbsp;
