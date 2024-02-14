@@ -1,6 +1,5 @@
 ## Hi there!👋<br><br>
 
-📫 How to reach me **d.stefanov088@gmail.com**
 
 
 ### :hammer_and_wrench: Languages and Tools:
